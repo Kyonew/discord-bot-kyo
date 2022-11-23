@@ -1,7 +1,7 @@
 
 module.exports = {
-    TOKEN: "ODMxMTYyMjE2ODQ1Mjc5MjMy.YHROIg.Am-OALuAuroRGZC_fEbj78y7ybQ",
-    DBCONNECTION: "mongodb+srv://Kyonewdb:T1z14n0database1@cluster0.7nja9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    TOKEN: "lol",
+    DBCONNECTION: "",
     DEFAULTSETTINGS: {
         prefix: "k!",
         logChannelID: "",
